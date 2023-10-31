@@ -1,5 +1,7 @@
 # JWBinder
 
+*The author will release the code before December 25th*
+
 ## Structure
 
 *code* folder contains our implementation of JWBinder
