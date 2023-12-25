@@ -1,6 +1,8 @@
 # JWBinder
 
-*The author will release the code before December 25th*
+~~The author will release the code before December 25th~~
+
+The current version provides a proof-of-concept of JWBinder. The author will update manual instructions after a few days.
 
 ## Structure
 
